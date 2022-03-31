@@ -5,5 +5,3 @@ Starting point for the Advanced Django course. This is the equivalent of the fol
 ```bash
 $ django-admin.py startproject blango
 ```
-
-Simple Blog Web-based
